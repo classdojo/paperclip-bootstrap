@@ -1,6 +1,6 @@
 {
   "name": "paperclip-bootstrap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "paperclip-bootstrap ===================",
   "main": "./lib/index.js",
   "scripts": {
@@ -14,5 +14,8 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/classdojo/paperclip-bootstrap/issues"
+  },
+  "dependencies": {
+    "bindable": "~0.5.26"
   }
 }
